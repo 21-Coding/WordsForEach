@@ -30,9 +30,6 @@ This application gives a brief showing of the power of JavaScript and HTML.
 
 
 
-### Git Hub
-
-Using this link you may access **Words** on GitHub 👉🏾 https://21-coding.github.io/landingpage/.
 
 ### Known Bugs
 
